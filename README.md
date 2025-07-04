@@ -19,4 +19,4 @@ Changes to This Policy:
 We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
 Contact Us:
-If you have any questions about this Privacy Policy, please contact us at [Your-Email-Address@example.com].
+If you have any questions about this Privacy Policy, please contact us at [maximusconsultcorp@example.com].
